@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amine.kammoon@gmail.com**
 
-- ⚡ Fun fact **I can play guitar**
+- ⚡ Fun fact **I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
