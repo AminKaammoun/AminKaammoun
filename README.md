@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminkaammoun" alt="aminkaammoun" /></a> </p>
 
-- 🔭 I’m currently working on **Bullet point summarized text generator based on a video**
-
-- 🌱 I’m currently learning **Generative AI**
-
 - 📫 How to reach me **amine.kammoon@gmail.com**
-
-- ⚡ Fun fact **I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
